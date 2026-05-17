@@ -9,7 +9,7 @@
 
 > Episódio áudio gerado automaticamente sobre o projeto Gémeo Digital.
 
-🔗 [Aceder ao Podcast](#) ← *substituir pelo link do Google Drive*
+🔗 [Aceder ao Podcast](https://drive.google.com/file/d/1Qm-RcUVBd4Kpv2EvtmtuQnJ0Oo_aOdqd/view?usp=sharing)
 
 ---
 
@@ -17,7 +17,7 @@
 
 > Vídeo gerado automaticamente com apresentação do projeto.
 
-🔗 [Aceder ao Vídeo](#) ← *substituir pelo link do Google Drive*
+🔗 [Aceder ao Vídeo](https://drive.google.com/file/d/1hesNR83QdCOBcebhwmie-3ERrZJLiDGo/view?usp=sharing)
 
 ---
 
@@ -25,7 +25,8 @@
 
 > Apresentação de slides gerada automaticamente sobre o Gémeo Digital.
 
-🔗 [Aceder aos Slides](#) ← *substituir pelo link do Google Drive*
+🔗 [Aceder aos Slides (versão PDF)](https://drive.google.com/file/d/1z34DJm4uFsLmbzbhwtX-TvRxG2J-Qi27/view?usp=sharing)
+🔗 [Aceder aos Slides (versão PPWT)](https://docs.google.com/presentation/d/1FBlapTgvXXoASBXo2-GFm4dm0d-TH2lW/edit?usp=sharing&ouid=116030375214030442068&rtpof=true&sd=true)
 
 ---
 
