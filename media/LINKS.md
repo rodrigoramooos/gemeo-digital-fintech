@@ -1,7 +1,6 @@
 # 🔗 Conteúdos Multimédia — Gémeo Digital
 
 > Conteúdos gerados via **NotebookLM (Google)** a partir da documentação do projeto.  
-> Substituir os links abaixo pelos links reais do Google Drive.
 
 ---
 
