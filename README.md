@@ -34,7 +34,9 @@ gemeo-digital-fintech/
 │
 ├── 📄 README.md                          ← Este ficheiro
 │
-├── 🧠 skills/                            ← As 4 camadas do agente
+├── 🧠 skills/                            
+│   └── agente-principal                  ← O agente que comanda a "operação"
+│   └── agente-critico                    ← Permite ser crítico em relação ao resultado
 │   ├── rodrigo-identidade/               ← Perfil, formação e competências
 │   ├── rodrigo-etica-moral/              ← Valores e princípios éticos
 │   ├── rodrigo-face-psicologica/         ← Personalidade e estilo cognitivo
@@ -44,15 +46,6 @@ gemeo-digital-fintech/
 │   └── gemeo_digital_rodrigo.html
 │
 ├── 📓 vault-obsidian/                    ← Documentação em Obsidian
-│   ├── 00 - Índice.md
-│   ├── 01 - Agente Geral.md
-│   ├── 02 - Skill Ética e Moral.md
-│   ├── 03 - Skill Face Psicológica.md
-│   ├── 04 - Agente FinTech Pessoal.md
-│   ├── 05 - Arquitetura Técnica.md
-│   ├── 06 - Reflexão Crítica.md
-│   ├── 07 - Referências.md
-│   ├── 08 - Diário de Bordo.md
 │   └── vault_gemeo_digital_rodrigo_ramos.zip
 │
 ├── 📝 relatorio/                         ← Relatório académico (PDF)
