@@ -75,6 +75,15 @@ gemeo-digital-fintech/
 
 ---
 
+## 🤖 Agentes do Projeto
+
+| Agente | Descrição |
+|--------|-----------|
+| **`gemeo-digital-rodrigo-ramos`** | System prompt completo com as 4 camadas integradas — o gémeo digital em pleno funcionamento |
+| **`gemeo-critic-agent`** | Agente de avaliação construtiva do projeto — analisa coerência, autenticidade e rigor académico do gémeo digital |
+
+---
+
 ## 🛠️ Ferramentas Utilizadas
 
 | Ferramenta | Utilização |
@@ -90,6 +99,8 @@ gemeo-digital-fintech/
 
 - 🧠 **Gémeo Digital interativo** — `interface/gemeo_digital_rodrigo.html`
 - 🧩 **4 Skills especializadas** — pasta `skills/`
+- 🤖 **Agente completo** — `gemeo-digital-rodrigo-ramos.md`
+- 🔍 **Agente crítico** — `gemeo-critic-agent.md`
 - 📓 **Vault Obsidian** — pasta `vault-obsidian/`
 - 📝 **Relatório académico** — pasta `relatorio/`
 - 🎙️ **Podcast** — ver `media/LINKS.md`
